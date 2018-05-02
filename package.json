@@ -1,0 +1,16 @@
+{
+  "name": "hello_world",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author":
+    "Sam Zhao <zhao.shengjun@gmail.com> (https://zhaoshengjun.github.io/)",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack-cli": "2.1.2",
+    "webpack": "4.6.0"
+  },
+  "scripts": {
+    "dev": "webpack"
+  }
+}
